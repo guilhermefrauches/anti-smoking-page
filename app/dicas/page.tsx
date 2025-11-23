@@ -4,7 +4,6 @@ import { ArrowLeft, CheckCircle2, Clock, Droplets, Brain, Activity, ShieldCheck 
 export default function TipsPage() {
   return (
     <div className="min-h-screen bg-zinc-950 text-zinc-100 font-sans">
-      {/* Navigation */}
       <nav className="fixed top-0 w-full z-50 bg-zinc-950/80 backdrop-blur-md border-b border-white/10">
         <div className="max-w-6xl mx-auto px-4 h-16 flex items-center justify-between">
           <Link href="/impacto" className="flex items-center gap-2 text-zinc-400 hover:text-white transition-colors">
@@ -17,7 +16,6 @@ export default function TipsPage() {
 
       <main className="pt-24 pb-20 px-4">
         <div className="max-w-4xl mx-auto space-y-20">
-          {/* Hero Section */}
           <header className="text-center space-y-6">
             <h1 className="text-4xl md:text-6xl font-bold">
               O Caminho da <span className="text-green-500">Liberdade</span>
@@ -28,7 +26,6 @@ export default function TipsPage() {
             </p>
           </header>
 
-          {/* Timeline Section */}
           <section className="space-y-8">
             <div className="flex items-center gap-3 mb-8">
               <Clock className="w-6 h-6 text-green-500" />

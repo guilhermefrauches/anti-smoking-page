@@ -12,11 +12,9 @@ export default function IntroPage() {
         playsInline 
         className="absolute inset-0 w-full h-full object-cover opacity-30 z-0 pointer-events-none"
       >
-        {/* Certifique-se de ter renomeado o arquivo na pasta public */}
        <source src="/YTDown.com_YouTube_Media_hU7M-ifJ1sI_001_720p.mp4" type="video/mp4" />
       </video>
 
-      {/* Overlay opcional para garantir que o texto fique legível sobre o vídeo */}
       <div className="absolute inset-0 bg-black/20 z-0 pointer-events-none" />
 
       <div className="z-10 max-w-2xl text-center px-6 space-y-8 animate-in fade-in duration-1000 zoom-in-95">

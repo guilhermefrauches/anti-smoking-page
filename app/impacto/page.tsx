@@ -64,7 +64,7 @@ export default function ImpactPage() {
               src="/lungs-damage-medical-illustration-anatomy-dark-sty.jpg"
               alt="Ilustração de dano pulmonar"
               fill
-              className="object-cover group-hover:scale-105 transition-transform duration-700"
+              className="object-cover scale-105 group-hover:scale-110 transition-transform duration-700"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex items-end p-6">
               <span className="text-white font-medium">Danos progressivos no tecido pulmonar</span>
@@ -78,7 +78,7 @@ export default function ImpactPage() {
               src="/heart-disease-artery-blockage-illustration-medical.jpg"
               alt="Ilustração de problemas cardíacos"
               fill
-              className="object-cover group-hover:scale-105 transition-transform duration-700"
+              className="object-cover scale-100 group-hover:scale-105 transition-transform duration-700"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex items-end p-6">
               <span className="text-white font-medium">Obstrução das artérias</span>

@@ -53,17 +53,17 @@ export default function TipsPage() {
                 </p>
               </div>
               <div className="bg-zinc-900/50 border border-white/5 p-6 rounded-xl hover:border-green-500/30 transition-colors">
-                <span className="text-green-400 font-bold text-sm">1 a 9 Meses</span>
-                <h3 className="text-lg font-bold text-white mt-2">Menos Tosse</h3>
-                <p className="text-sm text-zinc-400 mt-2">
-                  Tosse e falta de ar diminuem. Os cílios pulmonares voltam a funcionar.
-                </p>
-              </div>
-              <div className="bg-zinc-900/50 border border-white/5 p-6 rounded-xl hover:border-green-500/30 transition-colors">
                 <span className="text-green-400 font-bold text-sm">1 Ano</span>
                 <h3 className="text-lg font-bold text-white mt-2">Coração Protegido</h3>
                 <p className="text-sm text-zinc-400 mt-2">
                   O risco de doença cardíaca cai pela metade em comparação a um fumante.
+                </p>
+              </div>
+              <div className="bg-zinc-900/50 border border-white/5 p-6 rounded-xl hover:border-green-500/30 transition-colors">
+                <span className="text-green-400 font-bold text-sm">1 a 9 Meses</span>
+                <h3 className="text-lg font-bold text-white mt-2">Menos Tosse</h3>
+                <p className="text-sm text-zinc-400 mt-2">
+                  Tosse e falta de ar diminuem. Os cílios pulmonares voltam a funcionar.
                 </p>
               </div>
               <div className="bg-zinc-900/50 border border-white/5 p-6 rounded-xl hover:border-green-500/30 transition-colors">

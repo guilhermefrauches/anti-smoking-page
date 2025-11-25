@@ -159,15 +159,15 @@ export default function ImpactPage() {
         <section className="text-center py-12 space-y-6">
           <h2 className="text-4xl font-bold">Nunca é tarde para parar.</h2>
           <p className="text-zinc-400 max-w-2xl mx-auto">
-            20 minutos após parar, sua pressão arterial cai. 12 horas depois, o nível de monóxido de carbono no sangue
-            volta ao normal. Sua jornada começa agora.
+            20 minutos após parar, sua pressão arterial cai. <br /> 12 horas depois, o nível de monóxido de carbono no sangue
+            volta ao normal.<br /> Sua jornada começa agora.
           </p>
           <div className="flex flex-col md:flex-row gap-4 justify-center pt-4">
             <Link
               href="/dicas"
               className="px-8 py-3 bg-zinc-800 hover:bg-zinc-700 text-white rounded-lg font-bold transition-colors border border-zinc-700 flex items-center justify-center"
             >
-              Ver Dicas para Parar
+              Ver dicas para parar
             </Link>
           </div>
         </section>

@@ -29,6 +29,9 @@ export default function ImpactPage() {
             O tabagismo é a principal causa de morte evitável no mundo. Conheça os danos irreversíveis causados aos seus
             órgãos vitais.
           </p>
+          <p className="text-xl text-zinc-400 max-w-2xl mx-auto">
+            O prazer do seu cigarro de hoje pode tirar o prazer de <span className="text-red-500">brincar com seus netos amanhã.</span>
+          </p>
         </div>
       </header>
 
